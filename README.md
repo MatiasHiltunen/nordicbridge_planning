@@ -67,6 +67,8 @@ flowchart TD
     B3 -. "Fri user-test clips" .-> D4
     C3 -. "Fri user-test clips" .-> D5
 ```
+# For example:
+
 ## 1 Four Work Streams (run in the same weekly rhythm)
 
 | Stream | Leads | Weekly work | Passes work to… |
